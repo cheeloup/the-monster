@@ -1,0 +1,1 @@
+i create a game in javascript And it started when I installed an Infiniminer archive and one of the scripts was written in PHP, it must have been the main file, and writing it in JS is a good idea, right?
